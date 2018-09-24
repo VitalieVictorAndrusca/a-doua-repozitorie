@@ -6,5 +6,5 @@
 
 ///////
 
-
+Public static void main
 eu singur
